@@ -1,0 +1,8 @@
+name: "edmdustry"
+displayName: "EDMdustry"
+author: abdullah
+description: "EDM 🔥🔥🔥🔥"
+version: "1.0"
+minGameVersion: "150.1"
+dependencies: [ ]
+hidden: true
